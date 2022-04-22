@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bea3b656.chunk.css",
-    "main.js": "/static/js/main.c6cddeeb.chunk.js",
-    "main.js.map": "/static/js/main.c6cddeeb.chunk.js.map",
+    "main.js": "/static/js/main.e64dae24.chunk.js",
+    "main.js.map": "/static/js/main.e64dae24.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0e0847fb.js",
     "runtime-main.js.map": "/static/js/runtime-main.0e0847fb.js.map",
     "static/css/2.8c8fba74.chunk.css": "/static/css/2.8c8fba74.chunk.css",
@@ -29,19 +29,14 @@
     "static/media/loading0.041a8d55.gif": "/static/media/loading0.041a8d55.gif",
     "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
     "static/media/logo.e548ad94.svg": "/static/media/logo.e548ad94.svg",
-    "static/media/mobile-roadmap.330939a4.webp": "/static/media/mobile-roadmap.330939a4.webp",
-    "static/media/mobile-roadmap.7e2b4f62.png": "/static/media/mobile-roadmap.7e2b4f62.png",
+    "static/media/mobile-roadmap.c7605da5.png": "/static/media/mobile-roadmap.c7605da5.png",
     "static/media/Header.css": "/static/media/mobile_header_bg.eeeebc9d.webp",
     "static/media/mobile_skoly_img.277b93d0.png": "/static/media/mobile_skoly_img.277b93d0.png",
-    "static/media/mobile_skoly_img.f3387b1c.webp": "/static/media/mobile_skoly_img.f3387b1c.webp",
     "static/media/presale_img.47b670c8.webp": "/static/media/presale_img.47b670c8.webp",
     "static/media/presale_img.babb18cd.png": "/static/media/presale_img.babb18cd.png",
     "static/media/rapity_img.7437dc8f.png": "/static/media/rapity_img.7437dc8f.png",
-    "static/media/rapity_img.946fcfa4.webp": "/static/media/rapity_img.946fcfa4.webp",
     "static/media/red_girl_img.a1bf609a.png": "/static/media/red_girl_img.a1bf609a.png",
-    "static/media/roadmap.34e26e29.png": "/static/media/roadmap.34e26e29.png",
-    "static/media/roadmap.92a15313.webp": "/static/media/roadmap.92a15313.webp",
-    "static/media/skoly_img.6cf9f6ec.webp": "/static/media/skoly_img.6cf9f6ec.webp",
+    "static/media/roadmap.996cb340.png": "/static/media/roadmap.996cb340.png",
     "static/media/skoly_img.77c712d5.png": "/static/media/skoly_img.77c712d5.png",
     "static/media/team1.5399c741.png": "/static/media/team1.5399c741.png",
     "static/media/team2.c9838ad9.png": "/static/media/team2.c9838ad9.png",
@@ -53,6 +48,6 @@
     "static/css/2.8c8fba74.chunk.css",
     "static/js/2.9d8a9354.chunk.js",
     "static/css/main.bea3b656.chunk.css",
-    "static/js/main.c6cddeeb.chunk.js"
+    "static/js/main.e64dae24.chunk.js"
   ]
 }
